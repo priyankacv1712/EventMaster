@@ -18,7 +18,16 @@ EventMaster is a Python-based management system designed to track the preparatio
 - Tkinter
 - OOP Concepts
 - JSON File Handling
-- 
+
+## ✅ How to Run This Project
+1. Download ZIP or Clone the Repository
+2. Install Python 3.8+
+3. Install dependencies:
+   pip install qrcode pillow
+4. Run the app:
+   python main_modern.py
+5. Login using demo credentials.
+
 ## Login Page
 <img width="1919" height="1079" alt="Screenshot 2025-11-24 230508" src="https://github.com/user-attachments/assets/7436af7a-1366-49d2-bcab-a627650a4a42" />
 
