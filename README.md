@@ -25,7 +25,7 @@ EventMaster is a Python-based management system designed to track the preparatio
 3. Install dependencies:
    pip install qrcode pillow
 4. Run the app:
-   python main_modern.py
+   python main.py
 5. Login using demo credentials.
 
 ## Login Page
